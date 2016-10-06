@@ -1,0 +1,10 @@
+div.leftpanel{
+
+ position: fixed;
+    down: 0;
+    left: 650px;
+    top: 0;;
+    width: 300px;
+
+    }
+

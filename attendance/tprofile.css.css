@@ -1,0 +1,27 @@
+.wrapper {
+	min-height: 100%;
+	height: auto !important; 
+	height: 100%;
+	margin: 0 auto -155px; 
+
+.header{
+ height:30%;
+ width:100%;
+ background color: yellow;
+float:left;
+}
+.leftpanel{
+ height:70%;
+ width:30%;
+ background color: red;
+float:left;
+}
+
+
+.rightpanel{
+ height:70%;
+ width:30%;
+ background color: red;
+float:left;
+}
+

@@ -1,0 +1,18 @@
+div.leftpanel{
+
+ position: fixed;
+    down: 0;
+    left: 650px;
+    top: 0;;
+    width: 300px;
+
+    }
+.footer {
+    
+    bottom: 0;
+    height: 100px;
+    left: 0;
+    position: fixed;
+    right: 0;
+}
+
